@@ -47,7 +47,11 @@ Dalam pengembangan sistem website WiraCom digunakan beberapa teknologi yang berf
 
 ### Admin
 Username: admin
+
 Password: admin123
+
+### Costumer
+https:// localhost/wiracom
 
 ## Konsep Pemograman yang Digunakan
 Dalam pengembangan sistem website WiraCom digunakan beberapa konsep pemrograman yang bertujuan untuk membuat kode program menjadi lebih terstruktur, mudah dipahami
