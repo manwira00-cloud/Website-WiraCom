@@ -35,24 +35,61 @@ Customer merupakan pengguna yang hanya memiliki akses untuk melihat informasi pr
 * Menjelajahi Produk
 
 ## Teknologi yang digunakan
-
-## Cara Menjalankan Sistem
+Dalam pengembangan sistem website WiraCom digunakan beberapa teknologi yang berfungsi untuk mendukung proses pembangunan aplikasi berbasis web, baik dari sisi tampilan maupun pengolahan data.
+* HTML digunakan sebagai bahasa markup untuk membangun struktur dasar halaman website.
+* CSS digunakan untuk mengatur tampilan atau desain dari halaman website.
+* PHP digunakan sebagai bahasa pemrograman server-side yang berfungsi untuk mengelola logika program pada sistem.
+* MySQL digunakan sebagai sistem manajemen database yang berfungsi untuk menyimpan seluruh data yang digunakan oleh sistem, seperti data produk dan data kategori produk.
+* Bootstrap merupakan framework CSS yang digunakan untuk mempercepat proses pembuatan tampilan website.
+* Sistem WiraCom dijalankan menggunakan web server lokal seperti XAMPP yang berfungsi untuk menjalankan aplikasi PHP serta mengelola database MySQL pada lingkungan pengembangan
 
 ## Login Sistem
 
 ### Admin
+Username: admin
+Password: admin123
 
 ## Konsep Pemograman yang Digunakan
+Dalam pengembangan sistem website WiraCom digunakan beberapa konsep pemrograman yang bertujuan untuk membuat kode program menjadi lebih terstruktur, mudah dipahami
+* Konsep pemrograman prosedural digunakan pada beberapa bagian sistem untuk menjalankan proses secara berurutan.
+* Function digunakan untuk memecah kode program menjadi bagian yang lebih kecil sehingga lebih mudah dikelola dan digunakan kembali
+* Konsep Object Oriented Programming (OOP) digunakan untuk mengorganisir kode program dalam bentuk class dan object.
+* Namespace digunakan untuk mengelompokkan class ke dalam paket tertentu agar struktur program menjadi lebih terorganisir.
+* Konsep integrasi database digunakan untuk menghubungkan aplikasi dengan database sehingga sistem dapat menyimpan dan mengambil data secara dinamis.
 
 ## Dokumentasi Interface Sistem WiraCom
 
 #### Halaman Login Admin
 ![alt text](<Asset/Halaman Dashboard Admin.png>)
 
-####
-####
-####
+#### Halaman Data Kategori
+![alt text](<Asset/Halaman Data Kategori.png>)
+
+#### Halaman Tambah Data Kategori
+![alt text](<Asset/Halaman Tambah Data Kategori.png>)
+
+#### Halaman Data Produk
+![alt text](<Asset/Halaman Data Produk.png>)
+
+#### Halaman Tambah Data Produk
+![alt text](<Asset/Halaman Tambah Data Produk.png>)
+
+#### Halaman Profil Admin
+![alt text](<Asset/Halaman Profil Admin.png>)
+
+#### Halaman Tampilan Dashboard Costumer
+![alt text](<Asset/Halaman Tampilan Dahsboard Costumer.png>)
+
+#### Halaman Pencarian Produk Costumer
+![alt text](<Asset/Halaman Pencarian Produk Costumer.png>)
+
+#### Halaman Detail Produk
+![alt text](<Asset/Halaman Detail Produk.png>)
+
+#### Halaman Pemesanan Produk
+![alt text](<Asset/Halaman Pemesanan Produk.png>)
+
 ## Author
 Nama: Nyoman Wira Raja
 
-Project: Sistem Penjualan WiraCom![alt text](<Asset/Halaman Dashboard Admin.png>)
+Project: Sistem Penjualan WiraCom
